@@ -13,6 +13,9 @@ Cargo.lock
 *.swo
 *~
 
+# Folders
+/RLSS
+
 # OS
 .DS_Store
 Thumbs.db
