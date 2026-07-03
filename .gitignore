@@ -15,6 +15,7 @@ Cargo.lock
 
 # Folders
 /RLSS
+/ML/HawkesAttention/Hawkes-Attention
 
 # OS
 .DS_Store
